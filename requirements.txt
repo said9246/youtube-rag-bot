@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit
+torch==2.7.1+cpu
+faiss-cpu
+langchain
+langchain-community
+langchain-huggingface
+langchain-ollama
+youtube-transcript-api
+sentence-transformers
+chromadb
+gradio
